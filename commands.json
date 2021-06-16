@@ -1,0 +1,15 @@
+[{
+	"command": "PLACE 1,1,EAST"
+},
+{
+	"command": "MOVE"
+},
+{
+	"command": "LEFT"
+},
+{
+	"command": "RIGHT"
+},
+{
+	"command": "REPORT"
+}]
