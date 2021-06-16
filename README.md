@@ -13,7 +13,7 @@ The application that can read in commands of the following form
     REPORT
 
 - PLACE will put the toy robot on the table in position X,Y
-  and facing NORTH, SOUTH, EAST or WEST.
+  and facing NORTH, SOUTH, EAST or WEST directions.
 - Default position of robot is (0,0) (which is the south west corner) facing North direction
 - The first valid command to the robot should be a PLACE command. Any other commands before Place should be ignored 
 - Placing the robot out of the square dimenions should be ignored
